@@ -1,0 +1,7 @@
+php -S localhost:8000 -t project
+
+;in public directory
+php -S localhost:8000
+
+
+********   "project" is your project folder name. *********
